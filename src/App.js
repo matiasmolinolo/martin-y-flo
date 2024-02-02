@@ -84,7 +84,7 @@ const Countdown = ({ targetDate }) => {
 
 
 function App() {
-  const targetDate = '2024-02-01T21:20:30';
+  const targetDate = '2024-02-03T17:30:00';
   return (
     <Countdown targetDate={targetDate} />
   );
