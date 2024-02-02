@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/martin-y-flo/static/css/main.3ac624cb.css",
-    "main.js": "/martin-y-flo/static/js/main.f07ebe9e.js",
+    "main.js": "/martin-y-flo/static/js/main.6ddfb9c4.js",
     "static/js/592.5649ae13.chunk.js": "/martin-y-flo/static/js/592.5649ae13.chunk.js",
     "index.html": "/martin-y-flo/index.html",
     "main.3ac624cb.css.map": "/martin-y-flo/static/css/main.3ac624cb.css.map",
-    "main.f07ebe9e.js.map": "/martin-y-flo/static/js/main.f07ebe9e.js.map",
+    "main.6ddfb9c4.js.map": "/martin-y-flo/static/js/main.6ddfb9c4.js.map",
     "592.5649ae13.chunk.js.map": "/martin-y-flo/static/js/592.5649ae13.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3ac624cb.css",
-    "static/js/main.f07ebe9e.js"
+    "static/js/main.6ddfb9c4.js"
   ]
 }
