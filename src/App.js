@@ -61,7 +61,6 @@ const Countdown = ({ targetDate }) => {
         {show && <h1>Martucho & Flo</h1>}
         {show && Object.keys(timeLeft).length > 0 && (
           <div>
-            <h2>Faltan:</h2>
             <p>
               {formatTimePart(timeLeft.days)}:
               {formatTimePart(timeLeft.hours)}:

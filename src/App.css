@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+
+h1 {
+  font-family: "Playfair Display", serif;
+  font-style: italic;
+  font-size: 6rem;
+
+}
+
+h2 {
+  font-family: "Playfair Display", serif;
+  font-style: italic;
+  font-size: 4rem;
+}
+
+p {
+  font-family: "Playfair Display", serif;
+  font-size: 7rem;
+}
