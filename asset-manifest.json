@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/martin-y-flo/static/css/main.f6d3324f.css",
+    "main.js": "/martin-y-flo/static/js/main.b86f62ff.js",
+    "static/js/592.5649ae13.chunk.js": "/martin-y-flo/static/js/592.5649ae13.chunk.js",
+    "index.html": "/martin-y-flo/index.html",
+    "main.f6d3324f.css.map": "/martin-y-flo/static/css/main.f6d3324f.css.map",
+    "main.b86f62ff.js.map": "/martin-y-flo/static/js/main.b86f62ff.js.map",
+    "592.5649ae13.chunk.js.map": "/martin-y-flo/static/js/592.5649ae13.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6d3324f.css",
+    "static/js/main.b86f62ff.js"
+  ]
+}
